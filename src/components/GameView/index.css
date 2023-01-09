@@ -1,0 +1,17 @@
+.item {
+  height: 20vh;
+  cursor: pointer;
+}
+.top-container {
+  display: flex;
+  flex-direction: row;
+}
+.paper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.game-view {
+  display: flex;
+  flex-direction: column;
+}
